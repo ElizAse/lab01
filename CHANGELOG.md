@@ -1,1 +1,5 @@
+- Added report
+- last version
+- Presentation added
+- Added changelog
 - the last version of lab1
